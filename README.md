@@ -67,24 +67,37 @@ Technologies Used
 
 Project Structure
 Data
+
 ├── FirestoreService
+
 ├── Repository
+
 └── SyncScheduler
 
 Models
+
 ├── Bhajan
+
 └── Category
 
 ViewModels
+
 ├── MainViewModel
+
 ├── LyricsViewModel
+
 └── SublistViewModel
 
 Views
+
 ├── SplashView
+
 ├── MainView
+
 ├── SublistView
+
 └── LyricsView
+
 
 Screenshots
 
